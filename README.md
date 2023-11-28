@@ -8,8 +8,8 @@
 ## Skills
 - HTML, CSS, JS
 - Blender, Autocad, SolidWorks
-- PS, video editing
-
+- PS, video editing.
+- Se habla español.
 
 <!---
 beztao01/beztao01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
