@@ -6,7 +6,7 @@
 - 📫 How to reach me https://www.youtube.com/channel/UC55H5rbWf5ErywoqmE_jvqg
 
 ## Skills
-- HTML, CSS, JS
+- HTML, CSS, JS, ThreeJS
 - Blender, Autocad, SolidWorks
 - PS, video editing.
 - Se habla español.
